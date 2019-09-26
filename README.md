@@ -1,6 +1,6 @@
 # Software Carpentry Project
 
-Example
+Example repository for software carpentry
 
 Work that we did to set up repository
 
@@ -8,5 +8,8 @@ Work that we did to set up repository
 
 To install, clone repository. 
 
+## Usage
+To use this repository, install it and then add it to 'R' with:
 
+'''{r}
  
